@@ -2,7 +2,7 @@
 
 My plan is to have 3 sections to the game.  Overall, I would like to use a few aspects of gamification, and work in some sort of computational thinking puzzle.  For gamification: High score to help promote competition. Running point score which will be displayed during each game, a star value awarded for each question from 1 to 3 stars based on how well you did on that particular question.  I think I will make a max of 100 points possible per question with the possible points slowly decremented per second, and the possible points reduced for a wrong answer.  It will always be possible to get 25 points on a question. That will also help provide a reward even if you don’t fully understand what you were doing wrong.
 
-## Section 1. This section will mostly use gamification  
+### Section 1. This section will mostly use gamification  
 
 I will have a classroom aspect where information will be displayed to you.  You will be expected to read the information on the screen.  Then you will have a multiple-choice quiz and True/false.  So to not overwhelm It will be broken down into at least 2 different classroom information displays/multiple choice quiz’s.    
 I will be using gamification During the quiz you will be awarded points based on how fast and how accurate you answer the questions.  
